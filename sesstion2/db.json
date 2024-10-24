@@ -1,0 +1,13 @@
+{
+
+  "products" : [
+        { "tittle": "addidas", "describtion": "cooton shirt", "sallary": 300 },
+        { "tittle": "addidas1", "describtion": "cooton shirt1", "sallary": 400 },
+        { "tittle": "addidas2", "describtion": "cooton shirt2", "sallary": 500 },
+        { "tittle": "addidas3", "describtion": "cooton shirt3", "sallary": 600 },
+        { "tittle": "addidas4", "describtion": "cooton shirt4", "sallary": 700 },
+        { "tittle": "addidas6", "describtion": "cooton shirt6", "sallary": 800 },
+        { "tittle": "addidas7", "describtion": "mona", "sallary": 900 }
+      ]
+
+}

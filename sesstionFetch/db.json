@@ -1,0 +1,10 @@
+{
+"products": [
+    { "title": "adidas", "description": "cotton shirt", "price": 300 },
+    { "title": "adidas1", "description": "cotton shirt1", "price": 400 },
+    { "title": "adidas2", "description": "cotton shirt2", "price": 500 },
+    { "title": "adidas3", "description": "cotton shirt3", "price": 600 },
+    { "title": "adidas4", "description": "cotton shirt4", "price": 700 },
+    { "title": "adidas6", "description": "cotton shirt6", "price": 800 },
+    { "title": "adidas7", "description": "mona", "price": 900 }
+] }

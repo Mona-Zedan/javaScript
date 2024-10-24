@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#product{
+    
+    display: flex;
+   margin: 10px;
+   padding: 10px;
+    flex-wrap: wrap;
+}
+.pro{
+    width: 23%;
+    height: fit-content;
+    background-color: rgb(174, 215, 240);
+    border-radius: 10px;
+    padding: 30px;
+    position: relative;
+    margin: 10px;
+    
+
+}
+.pro img{
+    width: 100%;
+    border-radius: 10px;
+}
+.pro .des span{
+    color: rgb(149, 187, 187);
+
+}
+.pro .des h5{
+    font-weight: 700;
+    color: rgb(57, 61, 61);
+    padding: 4px;
+} 
+.pro .des .star{
+    color: rgb(235, 235, 80);
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.pro h4{
+    color: rgb(223, 88, 88);
+}
+.pro .cart{
+    color: rgb(3, 173, 3);
+   
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 50px;
+    position: absolute;
+    bottom: 20px;
+     right: 20px;
+}
